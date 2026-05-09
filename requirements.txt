@@ -1,0 +1,14 @@
+ultralytics
+albumentations
+seaborn
+plotly
+tqdm
+gdown
+lxml
+opencv-python
+numpy
+pandas
+matplotlib
+torch
+torchvision
+pyyaml
